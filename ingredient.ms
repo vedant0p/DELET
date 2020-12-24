@@ -1,0 +1,1 @@
+rice,sugar,milk,cardamom,dryfruits

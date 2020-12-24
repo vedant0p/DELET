@@ -1,1 +1,1 @@
-rice,sugar,milk,cardamom,dryfruits
+rice,sugar,milk,cardamom,dryfruits like cashews and almonds
